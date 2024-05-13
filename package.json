@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "xrpl": "^3.0.0"
+  },
+  "name": "kifaruswap",
+  "version": "1.0.0",
+  "description": "Crypto to Fiat currency",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gacheruevans/kifaruswap.git"
+  },
+  "keywords": [
+    "XRPLG",
+    "CRYPTO",
+    "FIAT"
+  ],
+  "author": "Evans Gacheru Munene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gacheruevans/kifaruswap/issues"
+  },
+  "homepage": "https://github.com/gacheruevans/kifaruswap#readme"
+}
